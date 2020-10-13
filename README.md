@@ -32,18 +32,18 @@ Things you may want to cover:
 
 # STEP TEST AND USE
 =============================
-$ bundle install
-$ bundle exec rspec
-$ rails routes
-$ rails s
+* $ bundle install
+* $ bundle exec rspec
+* $ rails routes
+* $ rails s
 
 
 # Route And Path To Use
 =============================
 
 ## Attempt to access API without a token
-$ http :3000/hospitals
-$ http :3000/hospitals/:hospital_id/doctors
+* $ http :3000/hospitals
+* $ http :3000/hospitals/:hospital_id/doctors
 
 # DOCTOR Hospitals
 -----------------------------
